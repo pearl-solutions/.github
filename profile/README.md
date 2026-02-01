@@ -3,8 +3,8 @@
 </div>
 
 <p align="center">
-  Worried about 3DS delays? <br>
-  Our <b>Revolut Solver</b> streamlines multi-account access, ensuring smooth, uninterrupted transactions.
+  Where Reselling Becomes Infrastructure <br>
+  Automation-first tools for professional resellers and botters. Designed to operate at scale in high-demand environments.
 </p>
 
 <div align="center">
@@ -19,13 +19,13 @@
 
 **Pearl Solutions** provides powerful automation and management tools designed to optimize your online purchasing and payment workflows.
 
-Whether you’re managing multiple accounts or dealing with 3DS verification slowdowns, **our Revolut Solver** ensures you stay ahead with:
+Whether you’re managing infrastructure, scaling execution, or handling post-purchase workflows, our toolbox is built to keep systems running efficiently with:
 
-- ⚡ **Instant multi-account login**
-- 🔄 **Automated and fast 3DS handling**
-- 🧠 **Smart retry and synchronization logic**
-- 🌍 **Business & Personal account**
-- 🧰 **Intuitive CLI & dashboard**
+- 📧 **Advanced email & inbox automation**
+- 🤖 **Custom bots for monitoring, tasking, and execution**
+- 📦 **Shipping, address, and fulfillment workflow automation**
+- 👥 **Multi-account and session lifecycle management**
+- 🧰 **CLI-first tools with optional dashboards**
 
 ---
 
